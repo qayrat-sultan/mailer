@@ -1,0 +1,1 @@
+### Put here all the files with the extension .docx, .pdf, .xlsx and .doc
